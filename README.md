@@ -5,7 +5,7 @@ This project was developed to demonstrate the capabilities of AI within Google A
 
 A modern, responsive React application that seamlessly fetches and displays articles from your Medium profile in an elegant card layout. Built with cutting-edge technologies for optimal performance and user experience.
 
-## 🚀 How to Deploy This App (Fastest Method)
+## How to Deploy This App (Fastest Method)
 
 To take this code from the playground to a real live website, follow these steps.
 
@@ -55,7 +55,7 @@ git push -u origin main
 
 Done! Your site will be live in less than a minute.
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
@@ -73,13 +73,13 @@ Done! Your site will be live in less than a minute.
    npm run dev
    ```
 
-## 🎯 Usage
+## Usage
 
 1. Open your browser and navigate to `http://localhost:5173`.
 2. The app will display your Medium articles in a card layout.
 3. Customize the content by modifying the `src/App.tsx` file.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
